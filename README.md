@@ -12,4 +12,4 @@ python predictor.py 청와대
 
 `model.h5`: Pretrained model using sample `news-title.txt` file. The predictor will use pretrained model if this file exists. If you want to train your own model, remove it.
 
-`news-title.txt`: News headline dataset. Crawled from [BigKinds](https://bigkinds.or.kr) news service. Each line must end with a special tag, `<E>`.
+`news-title.txt`: News headline dataset. Crawled from [BigKinds](https://www.bigkinds.or.kr) news service. Each line must end with a special tag, `<E>`.
